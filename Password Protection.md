@@ -45,10 +45,10 @@ To protect the entire site select **Project Settings -> General -> Set Password.
 > **Note:**: Website, Page and Folder password protection are **premium features**. You must have an active [hosting subscription](https://webflow.com/pricing/one-site). If you have a **Pro Plan**, site wide passwords can be set on your webflow.io staging sites. 
 
 ## Setting Passwords using the Editor
-To set a Page or Folder password in the Editor 
+To set a **Page** or **Folder** password in the **Editor**
 
-1. Locate the Page or Folder you wish to protect
-2. Highlight the page/folder by hovering over it with the mouse
+1. Locate the Page/Folder you wish to protect
+2. Highlight the Page/Folder by hovering over it with the mouse
 3. Select the settings button to the right
 
 ![Fig 3. Setting Passwords in the Editor](https://lh3.googleusercontent.com/RCcYtcnFDED2DcxfvK4yHtY607HOjAEaNopSvbi9yjw--UwJMKUtQgr9knfTW1ngMagoKUo_eeWHaA "Fig 3. Setting Passwords in the Editor")
@@ -59,7 +59,7 @@ You will now see the screen below in Fig 4. Its very similar to the Designer scr
 
 ## Design the Password Page
 
-Its also possible to design the password page. The layout comprises of boxes that can be moved and resized accordingly. Its possible to edit and preview the style of the password box for both scenarios i.e. correct/incorrect password. For further information see the [Password Page Tutorial](https://university.webflow.com/article/password-page)
+Its also possible to design the password page. The layout style and configuration can be edited and previewed for both scenarios i.e. correct/incorrect password. For further information see the [Password Page Tutorial](https://university.webflow.com/article/password-page)
 
 
 
