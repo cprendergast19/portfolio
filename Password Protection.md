@@ -3,8 +3,11 @@
 There are occasions when you will want to protect a page, folder or entire site with a password. The password can be set in the Designer or the Editor. 
 
 [Password Protect a Page](#password-protect-a-page)
+
 [Password Protect a Folder](#password-protect-a-folder)
+
 [Password Protect Entire Website](#password-protect-entire-website)
+
 [Design the Password Page](#design-the-password-page)
  
 ## Password Protect a Page 
