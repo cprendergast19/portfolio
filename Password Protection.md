@@ -27,6 +27,8 @@ In order to password protect your page you need to navigate to the **Pages** tab
 
 You will now see the password box appear on the screen when the web page is loaded.
 
+>**Important**: Currently, you are only able to set page level passwords on [static pages](https://university.webflow.com/glossary/static-page). Page level passwords on dynamic, CMS generated pages is coming soon.
+
   > **Note:** Its possible to use different passwords for each web page.
     
 
