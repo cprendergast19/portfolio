@@ -1,2 +1,6 @@
-theme: jekyll-theme-cayman
 
+collections:
+theme: jekyll-theme-cayman
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
