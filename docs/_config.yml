@@ -3,4 +3,4 @@ collections:
 theme: jekyll-theme-cayman
   portfolio:
     output: true
-    permalink: /_portfolio/
+    permalink: https://cprendergast19.github.io/portfolio/
