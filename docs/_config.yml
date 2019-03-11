@@ -1,6 +1,6 @@
 
 collections:
-theme: jekyll-theme-cayman
   portfolio:
     output: true
     permalink: https://cprendergast19.github.io/portfolio/
+    theme: jekyll-theme-cayman
