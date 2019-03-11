@@ -1,12 +1,11 @@
----
 collections:
   portfolio:
     theme: jekyll-theme-cayman
     output: true
     permalink: https://cprendergast19.github.io/portfolio/docs/_portfolio/
- ---
+
  
- ---
+
   <div class="row">
 
   {% for portfolio in site.portfolio %}
@@ -27,4 +26,3 @@ collections:
   {% endfor %}
 
 </div>
----
