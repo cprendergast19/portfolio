@@ -1,2 +1,2 @@
 ## Claire Prendergast - Certified Technical Writer
-Portfolio
+Technical Wrting Portfolio
