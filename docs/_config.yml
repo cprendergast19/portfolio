@@ -1,6 +1,6 @@
 
 collections:
 theme: jekyll-theme-cayman
-  docs:
+  portfolio:
     output: true
-    permalink: /docs/:path/
+    permalink: /portfolio/:path/
