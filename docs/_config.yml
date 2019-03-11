@@ -2,5 +2,5 @@
 collections:
   portfolio:
     output: true
-    permalink: https://cprendergast19.github.io/portfolio/
+    permalink: https://cprendergast19.github.io/portfolio/docs/_portfolio/
     theme: jekyll-theme-cayman
