@@ -3,4 +3,4 @@ collections:
 theme: jekyll-theme-cayman
   portfolio:
     output: true
-    permalink: /portfolio_I​n_Training_for_the_Culinary_Olympics_in_NOLA.md
+    permalink: /_portfolio/
