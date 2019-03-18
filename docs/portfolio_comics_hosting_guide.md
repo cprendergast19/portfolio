@@ -7,7 +7,7 @@ This document is an instructional guide outlining how to add a new comic issue t
  1. Create a directory for the issue, using the title of the issue as the name of the directory.
  2. Within the new issue directory created, create a new directory named  `Contents`. Ensure the correct spelling as the code specifically searches for a directory named  `Contents`. It is case sensitive.
  3. Add the Image, Sound and Video assets to the  `Contents` directory.
- 4. Create two JSON files, one for the iPad and one for the iPhone. Naming is as follows  `xxxxiphone.json`and  `xxxxipad.json`. These are case sensitive as the parser searches for files ending with  `ipad.json` and  `iphone.json`. Below is an example of a JSON comic file.
+ 4. Create two JSON files, one for the iPad and one for the iPhone. Naming is as follows  `xxxxiphone.json`and  `xxxxipad.json`. These are case sensitive as the parser searches for files ending with  `ipad.json` and  `iphone.json`. Below is an example of a JSON comic file, followed by an API guide. 
     	    
     		
     	 {
