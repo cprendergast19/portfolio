@@ -80,7 +80,7 @@ This document is an instructional guide outlining how to add a new comic issue t
 
 | Element | Description | Type | Notes |
 | ---- | ---- | ---- | ----|
-| comic | comic object | object ||
+| comic | comic object | Object ||
 | &nbsp; &nbsp; productId | Unique product identifier representing the issue in the app store | String | e.g. `com.comics.issue2` |
 | &nbsp; &nbsp; title |  Title of the comic | String ||
 | &nbsp; &nbsp; coverImg | JPEG file | String | requires extension e.g. `Comic-iPad-00.jpg` |
@@ -94,7 +94,7 @@ This document is an instructional guide outlining how to add a new comic issue t
 | &nbsp; &nbsp; movieImg | Image displayed on the movie popup button | String | JPEG file |
 | &nbsp; &nbsp; pageCount | Number of pages | Number ||
 | &nbsp; &nbsp; popupTypes | A list of current popup types and their descriptions | Array | e.g. `{"name": "Page Sound","code": "PS"}` |
-| &nbsp; &nbsp; page | page object | object ||
+| &nbsp; &nbsp; page | page object | Object ||
 | &nbsp; &nbsp; &nbsp; &nbsp; pageNumber | Page number | Number | Starting at 0 |
 | &nbsp; &nbsp; &nbsp; &nbsp; img | The image for the page | String | Contains the image file and the XY co-ordinates, these should always be 0,0 e.g. `img : {"src": "Comic-iPad-00b.jpg","x": 0, "y": 0}` |
 | &nbsp; &nbsp; &nbsp; &nbsp; popup | Object array of artifacts that appear on the screen | Array | These are optional, there are 4 types of popup currently, these are  **SC**(sound clip),  **MC** (movie clip)**,**  **UR** (URL) and  **PS** (Page Sound) |
